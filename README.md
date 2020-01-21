@@ -1,1 +1,1 @@
-This is Saul's first Git project!
+This is iStayGrizzly's first Git project!
